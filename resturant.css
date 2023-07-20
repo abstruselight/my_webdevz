@@ -8,7 +8,7 @@
   /* Global styles */
   body {
     font-family: Arial, sans-serif;
-    background-color: #f1f1f1;
+    background-color: #e6e6e6;
   }
   
   .container {
@@ -16,8 +16,11 @@
     margin: 0 auto;
     padding: 20px;
   }
+  h1{
+    color:#ffffff ;
+  }
   
-  h1, h2, h3 {
+ h2, h3 {
     color: #333;
   }
   
@@ -50,7 +53,7 @@
   
   /* Hero Section */
   header {
-    background-image: url('hero-image.jpg');
+    background-image: url("preparation-cooking-wooden-background-top-view-free-space-text_187166-51517.avif");
     background-size: cover;
     background-position: center;
     height: 500px;
